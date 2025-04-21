@@ -1,2 +1,2 @@
-# ProjectJavaGit
+# ProjectGit
 first file
