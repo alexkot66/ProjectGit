@@ -22,7 +22,7 @@ public class Product {
     public void setPrice(double price) {
         this.price = price;
     }
-
+//установка цены
     @Override
     public String toString() {
         return "name: " + name + ", price: " + price;
