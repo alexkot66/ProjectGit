@@ -11,7 +11,6 @@ public class Main {
         vendingMachine.addProduct(product1);
         vendingMachine.addProduct(product2);
         vendingMachine.addProduct(product3);
-        //вывод на экран продуктов
 
         System.out.println(vendingMachine);
     }
